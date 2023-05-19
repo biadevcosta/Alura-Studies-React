@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About the project
+
+https://github.com/biadevcosta/Alura-Studies-React/assets/97992738/53c85617-566f-49a5-ac91-fedf583f576a
+
 ## Available Scripts
 
 In the project directory, you can run:
